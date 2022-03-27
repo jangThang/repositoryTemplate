@@ -55,9 +55,9 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 
 ## Authors
-  - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
+  - [jangThang](https://github.com/JangThang) - **Wooyoung Jang** - <star7sss@naver.com>
 
-See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
+See also the list of [contributors](https://github.com/jangThang/readmeTemplate/contributors)
 who participated in this project.
 <!--
 ## Used or Referenced Projects
